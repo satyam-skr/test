@@ -3,6 +3,5 @@ using namespace std;
 
 int main()
 {
-    cout<<"two\n";
-    cout<<"line 1\n";
+    cout<<"major change is this file\n";
 }
