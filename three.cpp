@@ -5,5 +5,5 @@ int main()
 {
     cout<<"three\n";
     cout<<"line 1\n";
-    cout<<"line 2\n";
+    cout<<"line nuum\n";
 }
